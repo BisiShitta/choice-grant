@@ -1,4 +1,4 @@
-# Bisi Shitta Silver Badge
+# Bisi Shitta Silver Women Grant
 
 # STEPS TO RUN LOCALLY
 
@@ -12,9 +12,6 @@
 
 ![visuals](https://github.com/BisiShitta/choice-grant/blob/main/src/img/cc.gif)
 
-# CHECK LIVE
-
-PREVIEW DEMO - 
 
 
 
