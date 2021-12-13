@@ -10,7 +10,7 @@
 
 # PREVIEW DEMO
 
-![visuals](https://github.com/samuellyworld/heroku/blob/master/src/img/cc.gif)
+![visuals](https://github.com/BisiShitta/choice-grant/blob/main/src/img/cc.gif)
 
 # CHECK LIVE
 
